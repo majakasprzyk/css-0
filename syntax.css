@@ -1,13 +1,18 @@
-body{
-    color: red;
-}
-
-div{
-    color: blue;
+#main-content{
+color: red;
 
 }
 
 p{
+color: black;
+
+}
+
+.test{
 color: green;
+
+}
+strong{
+color: orange;
 
 }
