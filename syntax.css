@@ -1,18 +1,9 @@
-#main-content{
-color: red;
-
-}
-
 p{
-color: black;
+color: red !important;
 
 }
 
-.test{
+#main-content{
 color: green;
-
-}
-strong{
-color: orange;
 
 }
