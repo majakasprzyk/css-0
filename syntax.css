@@ -1,13 +1,6 @@
-li:nth-child(1), li:nth-child(7){
-    font-weight: bold;
+article.featured-content{
+    background: red;
 }
-li:nth-child(even){
-    background: yellow;
-}
-li:nth-child(odd){
-    background: pink;
-}
-
-li:nth-child(2n+1){
-    color: white;
+div.featured-content{
+    background: blue;
 }
