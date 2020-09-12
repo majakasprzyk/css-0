@@ -1,11 +1,8 @@
-a:hover{
-    color:red;
-}
+article h2:first-child{
+    font-weight: bold;
 
-a:active{
-    color: orange;
 }
-a:visited{
-color: purple;
+article p:last-child{
+    color: red;
 
 }
