@@ -1,13 +1,5 @@
-#header h1{
-color: chocolate;
-
-}
-
-#header h2{
-    color: #372827;
-}
-
-p {
-    background-color: blue;
+p{
+    font-size: 12px;
+    letter-spacing: 0,2em;
 
 }
