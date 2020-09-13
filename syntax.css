@@ -1,8 +1,13 @@
-h1{
-    font-weight: normal;
+#header p{
+    text-transform: capitalize;
+
 }
 
-p{
+body{
+    text-transform: uppercase;
+}
 
-    font-weight: bold;
+body > p{
+    text-transform: none;
+
 }
